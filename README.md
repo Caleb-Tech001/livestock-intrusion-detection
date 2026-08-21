@@ -1,6 +1,4 @@
-Edge AI and IoT Enabled Livestock Intrusion Detection and Automated Farm Protection
-
-This repository contains the reproducibility materials, experimental artifacts, implementation files, and supporting evidence associated with the study:
+**This repository contains the reproducibility materials, experimental artifacts, implementation files, and supporting evidence associated with the study:**
 
 **Edge AI and IoT Enabled Livestock Intrusion Detection and Automated Farm Protection Using YOLOv8s and MQTT-Enabled Event Notification**
 
