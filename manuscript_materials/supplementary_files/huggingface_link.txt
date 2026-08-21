@@ -1,0 +1,9 @@
+Hugging Face Demo
+=================
+
+The trained cattle detection model is publicly available through the following Hugging Face Space:
+
+https://huggingface.co/spaces/YhungProf/Cattle-detection-model
+
+The Space provides an interactive demonstration of the cattle detection model used in this study.
+It can be used to inspect the model's detection behavior on input images.

@@ -1,0 +1,6 @@
+ultralytics==8.4.117
+numpy==2.0.2
+opencv-python
+paho-mqtt
+requests
+Pillow

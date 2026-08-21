@@ -1,0 +1,15 @@
+System Testing Evidence
+=======================
+
+This folder contains supporting evidence from the testing phase of the ACIDS project, including:
+
+- Original test videos and corresponding detected/annotated videos
+- Sample livestock intrusion detection cases
+- Representative detection outputs
+- System testing demonstrations
+- Additional visual evidence of the detection and event-response workflow
+
+These materials provide supplementary evidence of the system behavior and experimental testing reported in the manuscript.
+
+Google Drive:
+https://drive.google.com/drive/folders/1GCnXBbopTQgtQ7_avEfdE0Ramg7arkFH?usp=sharing
