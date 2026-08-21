@@ -62,7 +62,7 @@ Third-party materials, including the Roboflow dataset and other externally hoste
 
 If you use this repository or build upon the implementation, please cite the associated research paper:
 
-> Oladepo, C.O., Abeeb, A.B., and Habeebullahi, O.A. (2026). *Edge AI and IoT Enabled Livestock Intrusion Detection and Automated Farm Protection Using YOLOv8s and MQTT-Enabled Event Notification.* [Journal Name / Under Review]
+> Oladepo, C.O., Abeeb, A.B., and Habeebullahi, O.A. (2026). *Edge AI and IoT Enabled Livestock Intrusion Detection and Automated Farm Protection Using YOLOv8s and MQTT-Enabled Event Notification. Discover Computer Vision/ Under Review.
 
 ## Acknowledgement
 
