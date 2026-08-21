@@ -1,4 +1,4 @@
-# ACIDS: Edge AI and IoT Enabled Livestock Intrusion Detection and Automated Farm Protection
+Edge AI and IoT Enabled Livestock Intrusion Detection and Automated Farm Protection
 
 This repository contains the reproducibility materials, experimental artifacts, implementation files, and supporting evidence associated with the study:
 
@@ -8,17 +8,17 @@ The project presents an integrated cyber-physical system for real-time cattle in
 
 ## Repository Contents
 
-### `manuscript_materials/`
+### `manuscript_materials`
 
 Supporting materials associated with the manuscript, including selected figures, demonstrations, and experimental evidence that are not included directly in the main manuscript.
 
-### `experiments/`
+### `experiments`
 
 Materials used for model training, evaluation, and experimental analysis.
 
 This includes the YOLOv8s training and evaluation notebook and generated experimental results used to obtain the measurements reported in the manuscript.
 
-### `circuitry/`
+### `circuitry`
 
 Hardware and simulation materials associated with the ESP32-based intrusion response system.
 
