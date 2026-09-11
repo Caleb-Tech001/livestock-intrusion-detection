@@ -72,7 +72,7 @@ This repository accompanies the research manuscript submitted to **Discover Comp
 ---
 
 <p align="center">
-  <img src="src/assets/acids-logo.png" alt="ACIDS Logo" width="280"/>
+  <img src="src/assets/acids-logo.jpg" alt="ACIDS Logo" width="280"/>
 </p>
 
 <p align="center">
