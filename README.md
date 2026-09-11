@@ -72,7 +72,7 @@ This repository accompanies the research manuscript submitted to **Discover Comp
 ---
 
 <p align="center">
-  <img src="src/assets/acids-logo.jpg" alt="ACIDS Logo" width="280"/>
+  <img src="src/manuscript_materials/supplementary_figures/acids-logo.jpg" alt="ACIDS Logo" width="280"/>
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ Manual monitoring is impractical for large farms operating 24/7.
 Automated Cattle Intrusion Detection and Control System is an intelligent farm surveillance system that combines **computer vision AI** with **automated deterrence mechanisms** to protect crops in real-time—without harming animals.
 
 <p align="center">
-  <img src="src/assets/farm-hero-bg.jpg" alt="ACIDS Dashboard" width="100%" style="border-radius: 12px; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);"/>
+  <img src="manuscript_materials/supplementary_figures/farm-hero-bg.jpg" alt="ACIDS Dashboard" width="100%" style="border-radius: 12px; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);"/>
 </p>
 
 ---
